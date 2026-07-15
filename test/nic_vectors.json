@@ -1,0 +1,62 @@
+[
+  {
+    "nic": "880324567V",
+    "valid": true,
+    "format": "old",
+    "birthYear": 1988,
+    "gender": "male",
+    "dayOfYear": 32,
+    "birthday": "1988-02-01",
+    "serialNumber": "456",
+    "checkDigit": "7",
+    "voting": "eligible",
+    "status": "locked"
+  },
+  {
+    "nic": "885324567V",
+    "valid": true,
+    "format": "old",
+    "birthYear": 1988,
+    "gender": "female",
+    "dayOfYear": 32,
+    "birthday": "1988-02-01",
+    "serialNumber": "456",
+    "checkDigit": "7",
+    "voting": "eligible",
+    "status": "locked"
+  },
+  {
+    "nic": "200015012345",
+    "valid": true,
+    "format": "modern",
+    "birthYear": 2000,
+    "gender": "male",
+    "dayOfYear": 150,
+    "birthday": "2000-05-29",
+    "serialNumber": "1234",
+    "checkDigit": "5",
+    "voting": "unknown",
+    "status": "locked"
+  },
+  {
+    "nic": "911042754V",
+    "valid": true,
+    "format": "old",
+    "birthYear": 1991,
+    "gender": "male",
+    "dayOfYear": 104,
+    "status": "convention-dependent"
+  },
+  {
+    "nic": "123456789",
+    "valid": false,
+    "error": "length",
+    "status": "locked"
+  },
+  {
+    "nic": "884994567V",
+    "valid": false,
+    "error": "dayOfYear",
+    "status": "locked"
+  }
+]

@@ -1,0 +1,22 @@
+name: sri_lanka_nic
+description: >-
+  Parse, validate, decode, and convert Sri Lankan National Identity Card (NIC)
+  numbers. Pure Dart, zero dependencies, typed errors, honest about the
+  unpublished check-digit algorithm.
+version: 0.1.0
+# TODO: set repository/homepage/issue_tracker once the package has a real
+# public git host — pub.dev scores these but a placeholder URL is worse
+# than omitting them.
+topics:
+  - sri-lanka
+  - nic
+  - validation
+  - identity
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.25.0
+  coverage: ^1.9.0

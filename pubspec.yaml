@@ -4,9 +4,8 @@ description: >-
   numbers. Pure Dart, zero dependencies, typed errors, honest about the
   unpublished check-digit algorithm.
 version: 0.1.0
-# TODO: set repository/homepage/issue_tracker once the package has a real
-# public git host — pub.dev scores these but a placeholder URL is worse
-# than omitting them.
+repository: https://github.com/DineshWayaman/Sri-Lanka-NIC-
+issue_tracker: https://github.com/DineshWayaman/Sri-Lanka-NIC-/issues
 topics:
   - sri-lanka
   - nic
